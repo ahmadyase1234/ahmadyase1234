@@ -42,9 +42,9 @@ I'm a results-driven **Data Analyst** with a strong foundation in **financial an
 
 ## Certifications
 
-- Google Data Analytics Certificate (In Progress)
-- Microsoft Power BI Data Analyst (PL-300) *(Planned)*
-- FMVA: Financial Modeling & Valuation Analyst *(Planned)*
+- Data analysis using Excel and Power pi (completed)
+- Data analysis using Sql  *(in progress)*
+- Data analysis using Python  *(completed)*
 
 ---
 
