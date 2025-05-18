@@ -34,6 +34,43 @@ Key Insights:
 
 
 5. Energy usage optimization opportunities identified across several facilities.
+
+2- oral cancer analysis 
+URL:https://github.com/ahmadyase1234/oral-cancer-analysis/tree/main
+
+Dashboard Overview:
+
+This dashboard presents an analysis of oral cancer cases. It includes various visualizations highlighting trends in cancer types, patient demographics, and geographic distribution. The key metrics likely include:
+
+Total number of cases
+
+Distribution by cancer type
+
+Age and gender breakdown
+
+Geographic regions affected
+
+Time-based trends
+
+
+
+---
+
+Key Insights:
+
+1. Most Common Cancer Type: Squamous Cell Carcinoma appears to be the most prevalent.
+
+
+2. Gender Distribution: Males are more frequently affected than females.
+
+
+3. Age Group Impact: The age group 51–60 shows the highest number of cases.
+
+
+4. Geographic Concentration: Certain regions (e.g., Dakahlia, Cairo) report a higher incidence of cases.
+
+
+5. Yearly Trends: The number of reported cases may vary by year, indicating potential growth or successful intervention.
 ---
 
 ## Certifications
