@@ -7,37 +7,33 @@ I'm a results-driven **Data Analyst** with a strong foundation in **financial an
 ---
 
 ## Projects
+1_ water analysis Dashboard 
+url https://github.com/ahmadyase1234/Water-analysis-Dashboard-
 
-### 1. **Adidas Sales Analysis**
-- **Tools:** Excel (Pivot Tables, Power Query)
-- **Highlights:**
-  - Top Category: Men's Street Footwear ($208M)
-  - Best Region: West ($269M)
-  - Recommendation: Focus on Monday promotions & product expansion
+Tools: power pi 
 
-### 2. **HR Analytics Dashboard**
-- **Tools:** Excel (Pivot Tables, Power Query)
-- **Highlights:**
-  - Largest Dept: Sales (37 employees)
-  - Best Performing: IT (Avg. 0.79)
-  - Recommendation: Improve HR/Sales performance, expand IT hiring
+Project Summary:
 
-### 3. **Pizza Sales Analysis**
-- **Tools:** Excel (Pivot Tables, Power Query)
-- **Highlights:**
-  - Top Category: Classic Pizzas ($220K)
-  - Best Day: Friday ($136K)
-  - Recommendation: Promote Sundays, market large-sized pizzas
+This Power BI project provides a comprehensive analysis of water consumption and operational efficiency across various regions. It supports water utility stakeholders in making data-driven decisions to reduce waste, optimize resource allocation, and improve service performance through interactive visuals and KPIs.
 
-### 4. **Pharma Sales Analysis**
-- **Tools:** Excel (Pivot Tables, Power Query)
-- **Highlights:**
-  - Top Product: Concor 5mg ($37.6M)
-  - Best Region: Heliopolis ($7.8M)
-  - Recommendation: Expand Concor line, target Monday campaigns
 
-> More interactive dashboards & storytelling projects are available on my [GitHub Profile](https://github.com/ahmadyase1234)
+---
 
+Key Insights:
+
+1. Higher water consumption observed in urban areas compared to rural zones.
+
+
+2. Seasonal variations significantly influence usage patterns.
+
+
+3. Frequent pump downtimes reduce operational efficiency in certain regions.
+
+
+4. Leakage rates exceed acceptable limits in specific areas.
+
+
+5. Energy usage optimization opportunities identified across several facilities.
 ---
 
 ## Certifications
